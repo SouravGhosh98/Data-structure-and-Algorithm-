@@ -22,8 +22,8 @@ Welcome to the Data Structures and Algorithms repository! This repository contai
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/data-structures-algorithms.git`
-2. Navigate to the project directory: `cd data-structures-algorithms`
+1. Clone the repository: `git clone https://github.com/SouravGhosh98/data-structures-algorithms.git`
+2. Navigate to the project directory: `cd data-structures-algorithm-`
 3. Explore the folders and files for implementations related to each data structure and algorithm.
 
 ## Usage
